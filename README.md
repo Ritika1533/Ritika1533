@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently learning MERN Stack, Data Structure and Algorithm and Structured Query Language.<br>👯 I am looking to collaborate on  Web Development.<br>🤝 I’m looking for help with Java Script.<br>💬 Ask me about Java, C++, C, SQL, and Web Development.<br>⚡ Fun Fact: Hope this bring a smile to your face! 😄
 
----
+
 [![](https://visitcount.itsvg.in/api?id=Ritika1533&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
